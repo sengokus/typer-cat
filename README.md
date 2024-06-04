@@ -4,7 +4,7 @@ A simple typing game, akin to Typer Shark. Created as our final project for CMSC
 ## App Usage
 There are three difficulties, namely easy, normal, and expert. Each difficulty has its own dictionary of words, specifically four-letter words, six-letter words, and eight-letter words, respectively. 
 The player must finish typing the word displayed on screen before the cat reaches the open jaw of the shark. Wrong inputs incur a penalty of the cat jumping forward. 
-Players gain points by 
+Players gain points by completing words.
 
 ### Controls
 1. Keyboard - Input
